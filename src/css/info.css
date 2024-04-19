@@ -1,0 +1,14 @@
+.info {
+   display: flex;
+   gap: 2rem;
+   font-size: 3rem;
+   font-weight: bold;
+   color: #fff;
+   font-family: var(--font-bubblegum);
+}
+
+.player span {
+   color: var(--border-color);
+   font-family: var(--font-poppins);
+   font-size: 5rem;
+}
